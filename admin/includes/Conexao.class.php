@@ -7,7 +7,7 @@
 	    private function __construct()
 	    {
 	        # Informações sobre o banco de dados:
-	        $db_host = "localhost";
+	        $db_host = "localhost:3304";
 	        $db_nome = "teren671_bd_escola_teste";
 	        $db_usuario = "root";
 	        $db_senha = "";
